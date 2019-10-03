@@ -1,0 +1,10 @@
+name = "intro_det_stoch"
+uuid = "3edd85a2-e5fe-11e9-076c-f9a44cda46ad"
+authors = ["msturroc <marcsturrock@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DiffEqBiological = "eb300fae-53e8-50a0-950c-e21f52c2b7e0"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+Latexify = "23fbe1c1-3f47-55db-b15f-69d7ec21a316"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
