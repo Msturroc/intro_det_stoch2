@@ -44,7 +44,7 @@ uuid = "b99e7846-7c00-51b0-8f62-c81ae34c0232"
 version = "0.5.6"
 
 [[Biomodelling]]
-deps = ["ExcelReaders", "LsqFit", "PoissonRandom", "Random", "Statistics", "Test"]
+deps = ["LsqFit", "PoissonRandom", "Random", "Statistics", "Test"]
 git-tree-sha1 = "4932367e551d3b0566c5b9ff23cbc571a3b88450"
 uuid = "9f4c04fe-aef9-11e9-18a8-b5ce91034548"
 version = "0.2.1"
