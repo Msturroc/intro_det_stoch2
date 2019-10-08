@@ -1,5 +1,4 @@
 [deps]
-Biomodelling = "9f4c04fe-aef9-11e9-18a8-b5ce91034548"
 DiffEqBiological = "eb300fae-53e8-50a0-950c-e21f52c2b7e0"
 DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
 LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
